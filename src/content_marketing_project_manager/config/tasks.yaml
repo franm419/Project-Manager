@@ -1,0 +1,44 @@
+task_breakdown:
+  description: >
+    Analyze the project_requirements for the {project_type} content initiative
+    and break them down into clear, actionable content tasks. Define each task’s
+    scope, format (e.g., blog, video, email), and timeline, while accounting for
+    editorial dependencies such as research, drafts, reviews, and publishing.
+
+    {project_requirements}
+
+    Team members:
+
+    {team_members}
+  expected_output: >
+    A structured list of content production tasks with detailed descriptions,
+    formats, target publish dates, and task dependencies. Your final output MUST
+    include a content calendar or Gantt chart tailored for the {project_type}
+    campaign.
+
+time_resource_estimation:
+  description: >
+    Evaluate each content task in the {project_type} project to estimate
+    required time, effort, and resources—including writing, editing, design,
+    and approvals. Use past campaign data, task complexity, and team availability
+    to provide realistic delivery expectations.
+  expected_output: >
+    A detailed content production estimation report including time, staffing, and
+    tool/resource requirements per task. Your report MUST include potential content
+    pipeline risks or blockers that could affect timelines.
+
+resource_allocation:
+  description: >
+    Assign content tasks for the {project_type} initiative to team members based
+    on their roles (writer, editor, designer, strategist), availability, and current
+    workload. Ensure the plan supports efficient workflow, maintains content quality,
+    and avoids team burnout.
+
+    Team members:
+
+    {team_members}
+  expected_output: >
+    A resource allocation plan showing which team members are assigned to each content
+    task, with start/end dates and workload balance. Your output MUST also include
+    a justification summary for each assignment to explain alignment with expertise
+    and scheduling.
