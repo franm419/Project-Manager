@@ -1,4 +1,4 @@
-# 🧠 Content Project Manager
+# 🧠 Project Manager
 
 Project planning application based on **CrewAI** with intelligent agents that help organize multichannel content marketing campaigns.  
 The **frontend is built with Streamlit**, providing an easy-to-use web interface for project interaction and execution.
